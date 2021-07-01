@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-55c4f7?style=flat-square&logo=webpack&logoColor=white" />  -->
   <img alt="Python" src="https://https://img.shields.io/pypi/pyversions/django-image-cropping.svg" />
-  <img alt="Django" src="https://img.shields.io/pypi/djversions/django?style=flat-square&logo=django&logoColor=white">" />
+  <img alt="Django" src="https://img.shields.io/pypi/django?style=flat-square&logo=django&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-e6b800?style=flat-square&logo=firebase&logoColor=white" />
