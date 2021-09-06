@@ -6,6 +6,12 @@
 Here are some ideas to get you started:
 -->
 
+📈 My Github<br/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin099&count_private=true&theme=cobalt&show_icons=true" alt="nitin099" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin099&layout=compact&theme=cobalt" />
+</p>
+
 - 🔭 I’m currently working on Djagno, Python, Flask etc.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
